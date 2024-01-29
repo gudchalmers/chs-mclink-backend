@@ -177,3 +177,4 @@ composer.phar
 .nfs*
 app/Http/.DS_Store
 storage/framework/testing/
+docker-compose.yml
